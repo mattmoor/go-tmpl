@@ -1,4 +1,4 @@
-module knative.dev/sample-controller
+module github.com/mattmoor/go-tmpl
 
 go 1.15
 
